@@ -65,7 +65,7 @@ cd coffeebar
 ## 👨‍💻 Author
 
 - GitHub: [PurvaDigarse-4](https://github.com/PurvaDigarse-4)
-- Email: purvadigarse4.com
+- Email: purvadigarse4@gmail.com
 
 ---
 
